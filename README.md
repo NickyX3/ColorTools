@@ -25,6 +25,9 @@ Class include few static function for color manipulations
 		[6] => #3d8e40
 		[7] => #3d8e7d
 	)
+	
+Use this colors for generate some color blocks
+<img src="https://raw.githubusercontent.com/NickyX3/ColorTools/master/result_preview.png">
 
 ## CREDITS
 
