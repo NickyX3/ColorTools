@@ -32,4 +32,5 @@ Use this colors for generate some color blocks
 ## CREDITS
 
 Nic Latyshev <nickyx3@gmail.com>
+
 This work is dual-licensed under the GPL v3 and the MIT license.
