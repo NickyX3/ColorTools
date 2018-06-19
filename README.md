@@ -25,3 +25,8 @@ Class include few static function for color manipulations
 		[6] => #3d8e40
 		[7] => #3d8e7d
 	)
+
+## CREDITS
+
+Nic Latyshev <nickyx3@gmail.com>
+This work is dual-licensed under the GPL v3 and the MIT license.
