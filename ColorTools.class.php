@@ -3,6 +3,7 @@
 /**
  * ColorTools Class. Generate Colors Palletes etc
  * @author Nic Latyshev
+ * @version 0.1
  * nickyx3@gmail.com
  */
 class ColorTools {
